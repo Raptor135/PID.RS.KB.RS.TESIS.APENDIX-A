@@ -1,0 +1,2 @@
+# PID.RS.KB.RS.TESIS.APENDIX-A
+Resultados complementarios de las simulaciones de los controladores para la tesis AJUSTE Y COMPARACIÓN DE CONTROLADORES PID Y OPTIMO RS CON FILTRADO KALMAN BUCY Y RS APLICADOS AL PÉNDULO SIMPLE ACTUADO
